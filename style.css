@@ -42,7 +42,7 @@ main {
 .livros-grid {
   display: grid;
   grid-template-columns: repeat(6, 1fr); /* 6 colunas por padrão (PC e tablets) */
-  gap: 15px;
+  gap: 5px;
 }
 
 @media (max-width: 767px) {
@@ -53,7 +53,7 @@ main {
 
 .livro {
   background: white;
-  padding: 10px;
+  padding: 2px;
   border-radius: 8px;
   box-shadow: 0 0 5px #ccc;
   text-align: center;
@@ -72,16 +72,16 @@ main {
 
 .livro h3 {
   font-size: 0.95rem;
-  margin: 8px 0;
+  margin: 2px 0;
   min-height: 48px;
 }
 
 .botao {
   display: inline-block;
-  padding: 8px 12px;
+  padding: 5px 7px;
   background: #2e8b57;
   color: white;
-  border-radius: 6px;
+  border-radius: 2px;
   text-decoration: none;
    font-weight: bold;
   font-size: 1.0rem;
