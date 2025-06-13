@@ -94,9 +94,9 @@ main {
 footer {
    background: #006400; 
   color: white;
-  padding: 10px;
-  font-size: 1.85em;
-  color: #555;
+  padding: 4x;
+  font-size: 1.5em;
+ 
 }
 
 @media (max-width: 600px) {
