@@ -5,7 +5,7 @@ body {
 }
 
 header {
-  background: #2e8b57;
+  background: #006400;
   color: white;
   padding: 19px;
   text-align: center;
@@ -79,7 +79,7 @@ main {
 .botao {
   display: inline-block;
   padding: 5px 7px;
-  background: #2e8b57;
+  background: #006400;
   color: white;
   border-radius: 2px;
   text-decoration: none;
