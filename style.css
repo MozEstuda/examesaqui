@@ -68,7 +68,7 @@ main {
 .livro img {
   width: 100%;
   height: auto;
-   border-radius: 1px 25px 1px 1px;}
+   border-radius: 1px 5px 1px 1px;}
 
 .livro h3 {
   font-size: 0.95rem;
