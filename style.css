@@ -92,9 +92,10 @@ main {
 }
 
 footer {
-  text-align: center;
+   background: #006400; 
+  color: white;
   padding: 10px;
-  font-size: 0.85em;
+  font-size: 1.85em;
   color: #555;
 }
 
